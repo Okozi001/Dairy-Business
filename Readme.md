@@ -2,7 +2,7 @@
 The Milk Farm project
 
 ## Description
-It is a website that explains more about the dairy milk farm project. It simply explains on the amount of milk production produced weekly, monthly and yearly.
+It is a website that explains more about the dairy milk farm project. It simply explains on the amount of milk production produced weekly, monthly and yearly. It states the earnings according to its prices.
 
 ## Author
 Melby Okozi
@@ -26,12 +26,4 @@ This will clone the repositoty into your local folder
 ### Live Site
 View [live](https://okozi001.github.io/Dairy-Business/)
 
-### Licence
-This project is under the  [MIT](LICENSE) licence
-MELBY OKOZI
-Website
- https://github.com/Okozi001/Dairy-Business.git
-Language
-HTML
-<  | Saturday 13th | Added by GitHub|
  
