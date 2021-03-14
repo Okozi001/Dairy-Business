@@ -1,0 +1,82 @@
+body{
+    background-image:url("https://thumbs.dreamstime.com/z/pouring-glass-milk-creating-splash-isolated-white-background-design-204717876.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+    font-weight: 450;
+    color: ;
+}
+h1{
+    text-align: center;
+    color:solid blue;
+    font-size: 70px;
+}
+p{
+    font-size: 35px;
+}
+
+/* Calculating the amount of milk produced in a day to amount to 1876 litres a day*/
+table{
+    font-family: arial,sans-serif;
+    width: 50%;
+    text-align: center;
+    font-size: 20px;}
+ td, th{
+       padding:10px;
+}
+table, td, th{
+    border: 1px solid maroon;
+    border-collapse: collapse;
+    
+}
+h2{
+    text-align: center;
+    color: blue;
+    font-size: 50px;
+}
+.container1 {
+    color:black;
+    margin: 1% 5% 5% 5%;
+    padding: 2% 5% 5% 5%;
+    border: 2px solid red;
+    box-shadow: 2px 1px 3px .5px palevioletred;
+    width: 80%;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+}
+h3{
+    text-align: center;
+    color: blue;
+    font-size: 50px;
+}
+.container2{
+    color:black;
+    margin: 1% 5% 5% 5%;
+    padding: 2% 5% 5% 5%;
+    border: 2px solid red;
+    box-shadow: 2vh 1vh 3vh .5vh palevioletred;
+    width: 80%;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+h4{
+    text-align: center;
+    color: blue;
+    font-size: 50px;
+}
+.container3{
+    color:black;
+    margin: 1% 5% 5% 5%;
+    padding: 2% 5% 5% 5%;
+    border: 2px aqua;
+    box-shadow: 2vh 1vh 3vh .5vh palevioletred;
+    width: 80%;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+z
