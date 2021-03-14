@@ -28,7 +28,7 @@ View [live](https://okozi001.github.io/Dairy-Business/)
 
 ### Licence
 This project is under the  [MIT](LICENSE) licence
-Melby Okozi
+MELBY OKOZI
 Website
  https://github.com/Okozi001/Dairy-Business.git
 Language
