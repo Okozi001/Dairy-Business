@@ -26,12 +26,4 @@ This will clone the repositoty into your local folder
 ### Live Site
 View [live](https://okozi001.github.io/Dairy-Business/)
 
-### Licence
-This project is under the  [MIT](LICENSE) licence
-MELBY OKOZI
-Website
- https://github.com/Okozi001/Dairy-Business.git
-Language
-HTML
-<  | Saturday 13th | Added by GitHub|
  
